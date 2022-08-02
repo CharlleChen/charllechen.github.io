@@ -7,7 +7,7 @@ title: About me
 ---
 
 
-Hi, my name is Charlie, a rising junior at NYU💜, majoring in honors joint math and computer science. I am passionate about engineering and mathematics. I love solving problems with modern technology and spending hours on hard math problems. I enjoy seeing my works become reality and I don't mind struggling in something beautiful but profound. Below is a partial list of the courses I have taken and work I have done.
+Hi, my name is Charlie, a rising junior at NYU💜, majoring in honors joint math and computer science. I am passionate about engineering and mathematics. I love solving problems with modern technology and spending hours on hard math problems. I enjoy seeing my works become reality and I don't mind struggling in something beautiful but profound. Below is a partial list of the courses I have taken and work I have done. You can check a more thorough course list [here](courses.html).
 
 
 ## Spring 2022
